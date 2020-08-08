@@ -1,0 +1,9 @@
+C:\Users\plini\source\repos\Proyecto_final\Dominio\bin\Debug\Dominio.dll
+C:\Users\plini\source\repos\Proyecto_final\Dominio\bin\Debug\Dominio.pdb
+C:\Users\plini\source\repos\Proyecto_final\Dominio\bin\Debug\DataAccess.dll
+C:\Users\plini\source\repos\Proyecto_final\Dominio\bin\Debug\DataAccess.pdb
+C:\Users\plini\source\repos\Proyecto_final\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\plini\source\repos\Proyecto_final\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\plini\source\repos\Proyecto_final\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\plini\source\repos\Proyecto_final\Dominio\obj\Debug\Dominio.dll
+C:\Users\plini\source\repos\Proyecto_final\Dominio\obj\Debug\Dominio.pdb

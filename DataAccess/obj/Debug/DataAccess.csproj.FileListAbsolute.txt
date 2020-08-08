@@ -1,0 +1,6 @@
+C:\Users\plini\source\repos\Proyecto_final\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\plini\source\repos\Proyecto_final\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\plini\source\repos\Proyecto_final\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\plini\source\repos\Proyecto_final\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\plini\source\repos\Proyecto_final\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\plini\source\repos\Proyecto_final\DataAccess\obj\Debug\DataAccess.pdb
